@@ -1,0 +1,330 @@
+{
+  "profile": {
+    "name": "Mohammed Irfan Hossain",
+    "title": "Structural Engineer",
+    "tagline": "BSc. in Civil Engineering (BUET), Associate Member - IEB (AMIEB), Specialized in Earthquake Resilient & Cost-Effective Structural Design.",
+    "phone": "+8801976966239",
+    "email": "irfan.buet18@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/irfance/",
+    "whatsappUrl": "https://wa.me/8801976966239?text=Hello%2FAsslamu%20Alaikum%2C%20I%20want%20recheck%20the%20design%20of%20my%20building.",
+    "photo": "/images/irfan.png"
+  },
+  "stats": {
+    "totalProjects": 40,
+    "totalSqft": 282252
+  },
+  "navItems": [
+    "About",
+    "Key Projects",
+    "Expertises",
+    "Awards"
+  ],
+  "projects": [
+    {
+      "title": "Atlas Signature",
+      "type": "Residential (G+9)",
+      "location": "Plot #7779, Kolpolok R/A, Chattogram",
+      "area": "32,500 sqft",
+      "frameType": "Dual Frame System",
+      "foundationType": "Cast-in-situ Piles",
+      "phase": "Under Construction",
+      "img": "/images/project-animated-3.jpg"
+    },
+    {
+      "title": "Rajshahi Sikkha Board Masjid",
+      "type": "Religious (G+5)",
+      "location": "Lokkhipur, Rajshahi",
+      "area": "24,000 sqft",
+      "frameType": "IMRF System",
+      "foundationType": "Cast-in-situ Piles",
+      "phase": "Proposed",
+      "img": "/images/project-animated-1.jpg"
+    },
+    {
+      "title": "Atlas Bhuyian Palace",
+      "type": "Residential (G+M+7)",
+      "location": "Sector-17, Uttara, Dhaka",
+      "area": "12,700 sqft",
+      "frameType": "Dual Frame System",
+      "foundationType": "Cast-in-situ Piles",
+      "phase": "Under Construction",
+      "img": "/images/project-animated-2.jpg"
+    },
+    {
+      "title": "Steel Production Shed",
+      "type": "DEA for Ceaser Apparels Ltd.",
+      "location": "Sikalbaha, Karnaphuli",
+      "area": "8,900 sqft",
+      "frameType": "OCBF Steel System",
+      "foundationType": "Isolated Footings",
+      "phase": "Completed",
+      "img": "/images/structure-3.png"
+    },
+    {
+      "title": "Atlas Baitul Atik",
+      "type": "Residential (G+M+6)",
+      "location": "N Block, Bashundhara, Dhaka",
+      "area": "13,000 sqft",
+      "frameType": "Dual Frame System",
+      "foundationType": "Cast-in-situ Piles",
+      "phase": "Proposed",
+      "img": "/images/structure-6.png"
+    },
+    {
+      "title": "Bus Garage Shed",
+      "type": "Structural Redesign",
+      "location": "New Govt. Degree College, Rajshahi",
+      "area": "3,860 sqft",
+      "frameType": "OMF with Truss Roof",
+      "foundationType": "Isolated Footings",
+      "phase": "Under Construction",
+      "img": "/images/structure-1.png"
+    },
+    {
+      "title": "BIAM School Cumilla",
+      "type": "Educational",
+      "location": "Cumilla",
+      "area": "19,550 sqft",
+      "frameType": "Special Moment Frame",
+      "foundationType": "Cast-in-situ Piles",
+      "phase": "Under Construction",
+      "img": "/images/structure-5.png"
+    },
+    {
+      "title": "BETP Mat Foundation",
+      "type": "Industrial (ETP)",
+      "location": "KDS Textile Mills, Kalurghat, Chattogram",
+      "area": "26,600 sqft",
+      "frameType": "Retaining Wall System",
+      "foundationType": "Mat Foundation",
+      "phase": "Under Construction",
+      "img": "/images/structure-4.png"
+    }
+  ],
+  "expertises": {
+    "core": [
+      "High Rise Building Design",
+      "RCC and Steel Structure Design",
+      "Cost Effective Building Design",
+      "DEA / Retrofit Design"
+    ],
+    "softwares": [
+      {
+        "name": "AutoCAD",
+        "img": "/images/autocad.png"
+      },
+      {
+        "name": "ETABS",
+        "img": "/images/etabs.png"
+      },
+      {
+        "name": "SAP2000",
+        "img": "/images/sap2000.png"
+      },
+      {
+        "name": "SAFE",
+        "img": "/images/safe.png"
+      },
+      {
+        "name": "REVIT",
+        "img": "/images/revit.png"
+      },
+      {
+        "name": "RAM CONNECTION",
+        "img": "/images/ram-connection.png"
+      }
+    ],
+    "codes": [
+      {
+        "name": "BNBC 2020",
+        "img": "/images/bnbc2020.png"
+      },
+      {
+        "name": "ACI 318",
+        "img": "/images/bnbc2.png"
+      },
+      {
+        "name": "ASCE 7",
+        "img": "/images/bnbc1.png"
+      },
+      {
+        "name": "RSC Accord",
+        "img": "/images/RSC-Accord.png"
+      }
+    ]
+  },
+  "awards": [
+    {
+      "title": "5th Position - National",
+      "titleSuperscript": {
+        "base": "5",
+        "sup": "th",
+        "rest": " Position - National"
+      },
+      "org": "2nd GPH Ispat - Prothom Alo En-Genius",
+      "orgSuperscript": {
+        "base": "2",
+        "sup": "nd",
+        "rest": " GPH Ispat - Prothom Alo En-Genius"
+      },
+      "year": "2025",
+      "desc": "Recognized for excellence in structural engineering and building design at a national level.",
+      "img": "/images/achievement-2.png"
+    },
+    {
+      "title": "7th Position - International",
+      "titleSuperscript": {
+        "base": "7",
+        "sup": "th",
+        "rest": " Position - International"
+      },
+      "org": "ACI Eco Concrete Competition",
+      "orgSuperscript": null,
+      "year": "2025",
+      "desc": "Global recognition for sustainable and material-efficient concrete design solutions.",
+      "img": "/images/achievement-1.png"
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/images/Gallery 01.png"
+    },
+    {
+      "src": "/images/Gallery 02.png"
+    },
+    {
+      "src": "/images/Gallery 03.png"
+    },
+    {
+      "src": "/images/Gallery 04.png"
+    }
+  ],
+  "qualifications": [
+    {
+      "id": "buet",
+      "dotColor": "emerald",
+      "type": "education",
+      "title": "BSc. in Civil Engineering",
+      "institution": "Bangladesh University of Engineering and Technology (BUET), Dhaka",
+      "period": null,
+      "badge": null,
+      "details": [
+        {
+          "label": "Major",
+          "value": "Structural Engineering"
+        },
+        {
+          "label": "Minor",
+          "value": "Geotechnical Engineering"
+        },
+        {
+          "label": "Thesis Focus",
+          "value": "Advanced Computational Modeling and Assessment of Non-Linear Dynamic Behavior in Structural Systems."
+        }
+      ]
+    },
+    {
+      "id": "atlas-landmark",
+      "dotColor": "slate",
+      "type": "experience",
+      "title": "Structural Engineer",
+      "institution": "Atlas Landmark Ltd, Dhaka",
+      "subInstitution": "Based in Chattogram Office",
+      "period": "Aug 2025 - Present",
+      "badge": {
+        "label": "Current Role",
+        "variant": "emerald"
+      },
+      "details": [
+        {
+          "value": "Foundation and Structural Design of Residential, Educational, and Religious Buildings."
+        },
+        {
+          "value": "Construction Supervision and Budgeting oversight."
+        },
+        {
+          "value": "Preparation of precise BoQ and Estimation models."
+        }
+      ]
+    },
+    {
+      "id": "eastern-engineers",
+      "dotColor": "slate",
+      "type": "experience",
+      "title": "Structural Engineer",
+      "institution": "Eastern Engineers, Chattogram",
+      "subInstitution": null,
+      "period": null,
+      "badge": {
+        "label": "Past Role",
+        "variant": "slate"
+      },
+      "details": [
+        {
+          "value": "Structural Design and Detailed Engineering Assessment (DEA)."
+        },
+        {
+          "value": "Retrofitting Design for structural rehabilitation and safety enhancements."
+        },
+        {
+          "value": "Design of complex Steel and RCC Industrial Buildings."
+        }
+      ]
+    },
+    {
+      "id": "amieb",
+      "dotColor": "slate-light",
+      "type": "membership",
+      "title": "Associate Member (AMIEB)",
+      "institution": "Institute of Engineers Bangladesh (IEB)",
+      "membershipNo": "A-29162",
+      "period": null,
+      "badge": null,
+      "details": []
+    }
+  ],
+  "footer": {
+    "services": [
+      "Architectural Floor Plan and 3D",
+      "Structural Design",
+      "Foundation Design",
+      "Electrical Design",
+      "Plumbing Design",
+      "Ground Improvement",
+      "Lift/Generator?"
+    ],
+    "contact": {
+      "phone": "+8801976966239 (Whatsapp)",
+      "email": "irfan.buet18@gmail.com",
+      "chattogramOffice": "House #33, Road #03, Or Nizam R/A, Chattogram",
+      "corporateOffice": "House-15, Road-08, Nikunja-2, Dhaka"
+    },
+    "affiliations": [
+      {
+        "name": "Atlas Landmark Ltd",
+        "img": "/images/Atlas Landmark Ltd.png",
+        "url": "https://facebook.com/atlaslandmarkltd"
+      },
+      {
+        "name": "Atlas Elevator Ltd",
+        "img": "/images/Atlas Elevator Ltd.png",
+        "url": "https://facebook.com/atlaselevatorltd"
+      },
+      {
+        "name": "Atlas Engineering Solution",
+        "img": "/images/Atlas Engineering Solution.png",
+        "url": "#"
+      },
+      {
+        "name": "Atlas Power",
+        "img": "/images/Atlas Power.png",
+        "url": "#"
+      }
+    ],
+    "copyright": "© 2026. All rights reserved by Mohammed Irfan Hossain",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/irfance/",
+      "website": "#"
+    }
+  }
+}
