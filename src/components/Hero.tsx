@@ -60,6 +60,7 @@ export default function Hero({profile}) {
                         <img
                             src={profile.photo}
                             alt={profile.name}
+                            loading="lazy"
                             className="w-full h-full object-cover scale-105"
                             style={{ objectPosition: 'center 20%' }}
                             referrerPolicy="no-referrer"

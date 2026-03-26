@@ -39,6 +39,7 @@ export default function Award({awards}) {
                                     <img
                                         src={award.img}
                                         alt={award.title}
+                                        loading="lazy"
                                         className="w-full h-full object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-500"
                                         referrerPolicy="no-referrer"
                                     />

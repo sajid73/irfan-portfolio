@@ -56,6 +56,7 @@ export default function Gallary({ gallery }) {
                                 alt={`Site Visit ${i + 1}`}
                                 className="w-full h-auto object-contain transition-transform duration-700 group-hover:scale-105"
                                 referrerPolicy="no-referrer"
+                                loading="lazy"
                                 onError={(e) => {
                                     const target = e.target as HTMLImageElement;
                                     target.style.display = 'none'; // Hide image

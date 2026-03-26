@@ -131,6 +131,7 @@ const App = () => {
 
                 <div className="relative w-full h-40 md:h-52 mb-6 rounded-2xl md:rounded-3xl overflow-hidden border border-white shadow-sm z-10 bg-slate-100">
                   <img
+                    loading="lazy"
                     src={p.img}
                     alt={p.title}
                     className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-700"
@@ -349,6 +350,7 @@ const App = () => {
                 >
                   <div className="w-full h-full flex items-center justify-center">
                     <img
+                      loading="lazy"
                       src={item.img}
                       alt={item.name}
                       className="w-full h-full object-contain p-2 filter"
@@ -385,6 +387,7 @@ const App = () => {
                     <img
                       src={item.img}
                       alt={item.name}
+                      loading="lazy"
                       className="w-full h-full object-contain"
                       referrerPolicy="no-referrer"
                     />
@@ -498,6 +501,7 @@ const App = () => {
                   <img
                     src={selectedProject.img}
                     alt={selectedProject.title}
+                    loading="lazy"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
                   />
@@ -622,6 +626,7 @@ const App = () => {
                       <img
                         src={aff.img}
                         alt={aff.name}
+                        loading="lazy"
                         className="w-full h-auto object-contain"
                         referrerPolicy="no-referrer"
                         onError={(e) => {
